@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sifat Hora</h1>
+<h1 align="center">Hi 👋, I'm Honesh Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat1411&label=Profile%20views&color=0e75b6&style=flat" alt="sifat1411" /> </p>
 
-- 🌱 I’m currently learning *Deep Learning with Keras and about Decenteralized Applications.*
+- 🌱 I’m currently learning *UI/UX Designing*
 
-- 📄You can find my resume [here](https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing)
+- 📄You can find my resume [here](https://drive.google.com/file/d/1exUS5LDe13CUHFTYbd8shIQDq8GKAloQ/view?usp=sharing)
 
 - ⚡ Fun fact *I am funny*
 
