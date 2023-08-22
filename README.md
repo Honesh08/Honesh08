@@ -38,9 +38,9 @@
   </a>
 
 <h3 align="left">Support:</h3
-<p><a href="https://www.buymeacoffee.com/horasifat02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sacstar" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/yadavhonesx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sacstar" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat1411&show_icons=true&locale=en&layout=compact" alt="sifat1411" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat1411&show_icons=true&locale=en&layout=compact" alt="Honesh08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat1411&show_icons=true&locale=en" alt="sifat1411" /></p>
 
