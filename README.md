@@ -11,16 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sifathora141102" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifathora141102" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sifat-hora-b4372a204/" target="_blank">
+    
+  <a href="https://www.linkedin.com/in/honesh-yadav/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/sifat-hora-b4372a204" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_.its_sifxtttt_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".its_sifxtttt" height="30" width="40" />
-  </a>
-  <a href="mailto:sifat14112002@gmail.com" target="_blank">
+  <a href="mailto:yadavhonesh@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -28,11 +23,8 @@
 <h3> My Coding Profile </h3>
 
 <p>
-  <a href="https://www.leetcode.com/sifat_1411" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifat_1411" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sifat14pjrr/" target="_blank">
-    <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <a href="https://www.hackerrank.com/yadavhonesh" target="_blank">
+    <img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="Hacker Rank" height="30" width="40" />
   </a>
 </p>
 
